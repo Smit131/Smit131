@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sumit@Smit131
-- 👀 I’m interested in Data Science, Machine learning, Data Analytics and Visualization
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Data science projects
+- 👀 I’m Working in Data Science, Machine learning, Data Analytics and Visualization
+- 💞️ I’m looking to collaborate on awesome Data science projects
 - 📫 How to reach me smityenugwar@gmail.com
 
 <!---
